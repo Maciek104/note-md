@@ -6,5 +6,6 @@ edition = "2024"
 [dependencies]
 eframe = "0.37.0"
 egui = "0.37.0"
-egui_extras = { version = "0.37.0", features = ["svg"] }
+egui_extras = { version = "0.37.0", features = ["file", "http", "image", "svg"] }
 egui-phosphor = "0.14.0"
+pulldown-cmark = "0.13.6"
