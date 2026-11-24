@@ -1,0 +1,10 @@
+[package]
+name = "NoteMD"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.37.0"
+egui = "0.37.0"
+egui_extras = { version = "0.37.0", features = ["svg"] }
+egui-phosphor = "0.14.0"
