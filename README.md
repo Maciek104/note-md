@@ -4,7 +4,9 @@ A lightweight native Markdown note editor and live previewer built with Rust and
 
 ## 🚀 Tech Stack
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=rust" />
+</p>
 
 ## 🛠️ Features
 
